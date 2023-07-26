@@ -8,6 +8,6 @@ Hi, my name is Saaketh (Saaki) Bhojanam and I'm a rising freshman at Normal Comm
 
 # 🌱 Language Expertise
 
-I'm experienced in **Python, Java, HTML, CSS, and Javascript.**
+I'm experienced in **Python, Java, HTML, CSS, JavaScript, and Bootstrap.**
 
 [![Saaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaakiBhojanam)](https://github.com/anuraghazra/github-readme-stats)
