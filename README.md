@@ -6,14 +6,14 @@ Hi, my name is Saaketh (Saaki) Bhojanam and I'm a freshman at Normal Community H
 
 🌎 [**EcoHub**](https://github.com/SaakiBhojanam/EcoHub), a web app aimed at promoting sustainability and eco-friendly behaviors by providing users with various resources to manage their carbon footprint.
 
-# 🌱 Language Expertise
+# 🌱 Language & Framework Expertise
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>&nbsp; 
 </div>
 
 #  📊 Stats
