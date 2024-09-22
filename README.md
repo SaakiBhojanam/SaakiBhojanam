@@ -16,7 +16,3 @@ Hi, my name is Saaketh (Saaki) Bhojanam and I'm a Sophomore at the Illinois Math
 
 
 </div>
-
-#  📊 Stats
-
-[![Saaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaakiBhojanam)](https://github.com/anuraghazra/github-readme-stats)
